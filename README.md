@@ -1,3 +1,3 @@
 # jbmodmaparchive
 Credits: 
-jb_hallway.bsps - takosan
+jb_hallway.bsp - takosan
